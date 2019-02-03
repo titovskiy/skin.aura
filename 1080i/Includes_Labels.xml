@@ -231,6 +231,7 @@
 
         <value condition="Container.Content(artists)">$VAR[Label_Header_Location,, / ]$LOCALIZE[133]</value>
 
+        <value condition="!String.IsEmpty(Container.FolderName)">$VAR[Label_Header_Location] / $INFO[Container.FolderName]</value>
         <value>$VAR[Label_Header_Location]</value>
     </variable>
 

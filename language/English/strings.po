@@ -764,12 +764,12 @@ msgstr ""
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31159"
-msgid "Video Sources"
+msgid "Video"
 msgstr ""
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31160"
-msgid "Music sources"
+msgid "Music"
 msgstr ""
 
 #: /1080i/Includes_View_Posters.xml
@@ -1416,7 +1416,7 @@ msgstr ""
 
 #: /shortcuts/overrides.xml
 msgctxt "#31302"
-msgid "Music Sources"
+msgid "Music"
 msgstr ""
 
 #: /1080i/DialogAddonInfo.xml
@@ -1426,7 +1426,7 @@ msgstr ""
 
 #: /shortcuts/overrides.xml
 msgctxt "#31304"
-msgid "Picture Sources"
+msgid "Picture"
 msgstr ""
 
 #: /1080i/SkinSettings.xml
