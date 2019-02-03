@@ -1290,7 +1290,7 @@
         </control>
     </include>
     <include name="View_Posters_Text">
-        <!-- Title -->
+        <!-- Label -->
         <control type="label">
             <label>$INFO[ListItem.Label]</label>
             <align>left</align>
