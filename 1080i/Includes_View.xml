@@ -28,10 +28,6 @@
                 <visible>!Control.HasFocus(9602)</visible>
                 <visible>![Window.IsVisible(MyPVRChannels.xml) | Window.IsVisible(MyPVRGuide.xml) | Window.IsVisible(MyPVRRecordings.xml) | Window.IsVisible(MyPVRTimers.xml) | Window.IsVisible(MyPVRSearch.xml)]</visible>
                 <control type="group">
-                    <visible>Control.IsVisible(501)</visible>
-                    <include>View_Library_Poster</include>
-                </control>
-                <control type="group">
                     <visible>Control.IsVisible(500)</visible>
                     <include condition="Window.IsVisible(MyVideoNav.xml) | Window.IsVisible(MyMusicNav.xml) | Window.IsVisible(MyPrograms.xml)">View_Library_Info</include>
                 </control>
