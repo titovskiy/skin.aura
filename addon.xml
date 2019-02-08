@@ -19,7 +19,7 @@ provider-name="jurialmunkey">
         <platform>all</platform>
         <license>Creative Commons Attribution Non-Commercial Share-Alike 4.0</license>
         <forum/>
-        <source/>
+        <source>https://github.com/titovskiy/skin.aura.timod/tree/Leia</source>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
