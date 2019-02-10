@@ -764,12 +764,12 @@ msgstr ""
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31159"
-msgid "Video"
+msgid "Video Sources"
 msgstr ""
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31160"
-msgid "Music"
+msgid "Music sources"
 msgstr ""
 
 #: /1080i/Includes_View_Posters.xml
@@ -1416,7 +1416,7 @@ msgstr ""
 
 #: /shortcuts/overrides.xml
 msgctxt "#31302"
-msgid "Music"
+msgid "Music Sources"
 msgstr ""
 
 #: /1080i/DialogAddonInfo.xml
@@ -1426,7 +1426,7 @@ msgstr ""
 
 #: /shortcuts/overrides.xml
 msgctxt "#31304"
-msgid "Picture"
+msgid "Picture Sources"
 msgstr ""
 
 #: /1080i/SkinSettings.xml
@@ -1957,4 +1957,9 @@ msgstr ""
 #: /1080i/SkinSettings.xml
 msgctxt "#31410"
 msgid "Show trailers and special features in preview window"
+msgstr ""
+
+#: /1080i/Includes_Weather.xml
+msgctxt "#31411"
+msgid "Unavailable"
 msgstr ""

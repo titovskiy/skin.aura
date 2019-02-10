@@ -1,3 +1,16 @@
+[B]1.0.3[/B]
+Fix for tvshows with linked movies not showing fanart thumbs
+Add fix for avc codec flag
+
+[B]1.0.2[/B]
+Official Repo Inclusion
+
+[B]1.0.1[/B]
+Fix monochrome flags on osd
+
+[B]1.0.0[/B]
+Ready for release
+
 [B]0.9.36[/B]
 Add Dependencies button to AddonInfo
 Tweak Selected item colour
