@@ -13,7 +13,7 @@
                 <control type="label">
                     <left>view_pad</left>
                     <height>80</height>
-                    <label>$INFO[System.AddonVersion(skin.aura),Aura ,]</label>
+                    <label>$INFO[System.AddonVersion(skin.auratimod),AuraTiMod ,]</label>
                     <font>font_button</font>
                     <textcolor>main_fg_30</textcolor>
                 </control>
